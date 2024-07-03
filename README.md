@@ -10,3 +10,4 @@
 |[JAVA6.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA6.java)|평균 구하기|for(int i : arr)|https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=java|
 |[JAVA7.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA7.java)|자릿수 더하기|while()|https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=java|
 |[JAVA8.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA8.java)|약수의 합|약수|https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=java|
+|[JAVA9.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA9.java)|나머지가 1이 되는 수 찾기|return <=> break|https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=java|
