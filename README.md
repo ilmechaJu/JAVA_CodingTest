@@ -9,3 +9,4 @@
 |[JAVA5.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA5.java)|짝수의 합|for 범위지정|https://school.programmers.co.kr/learn/courses/30/lessons/120831|
 |[JAVA6.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA6.java)|평균 구하기|for(int i : arr)|https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=java|
 |[JAVA7.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA7.java)|자릿수 더하기|while()|https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=java|
+|[JAVA8.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA8.java)|약수의 합|약수|https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=java|
