@@ -15,3 +15,4 @@
 |[JAVA11.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA11.java)|자연수 뒤집어 배열로 만들기|String s =""+n|https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=java
 |[JAVA12.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA12.java)|문자열을 정수로 바꾸기|Interger.parseInt(s)|https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=java
 |[JAVA13.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA13.java)|정수 제곱근 판별|pow(sqrt(n),2) == n|https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=java
+|[JAVA14.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA14.java)|정수 내림차순으로 배치하기|Arrays.sort()|https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=java
