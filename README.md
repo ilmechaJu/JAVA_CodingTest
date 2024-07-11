@@ -14,3 +14,4 @@
 |[JAVA10.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA10.java)|x만큼 간격이있는 n개의 숫자|long[] arr = new long[n]|https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=java|
 |[JAVA11.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA11.java)|자연수 뒤집어 배열로 만들기|String s =""+n|https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=java
 |[JAVA12.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA12.java)|문자열을 정수로 바꾸기|Interger.parseInt(s)|https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=java
+|[JAVA13.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA13.java)|정수 제곱근 판별|pow(sqrt(n),2) == n|https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=java
