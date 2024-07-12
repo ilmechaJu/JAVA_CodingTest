@@ -19,3 +19,4 @@
 |[JAVA15.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA15.java)|하샤드 수|Integer.parseInt() / Integer.toString()|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java
 |[JAVA16.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA16.java)|두 정수 사이의 합|int = 10,000,000 long += 1~10,000,000|https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=java
 |[JAVA17.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA17.java)|콜라츠 추측|while >500 int => long|https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=java
+|[JAVA18.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA18.java)|서울에서 김서방 찾기|seoul[i].equals("Kim")|https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java
