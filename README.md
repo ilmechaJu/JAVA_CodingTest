@@ -18,3 +18,4 @@
 |[JAVA14.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA14.java)|정수 내림차순으로 배치하기|Arrays.sort()|https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=java
 |[JAVA15.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA15.java)|하샤드 수|Integer.parseInt() / Integer.toString()|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java
 |[JAVA16.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA16.java)|두 정수 사이의 합|int = 10,000,000 long += 1~10,000,000|https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=java
+|[JAVA17.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA17.java)|콜라츠 추측|while >500 int => long|https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=java
