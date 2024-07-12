@@ -17,3 +17,4 @@
 |[JAVA13.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA13.java)|정수 제곱근 판별|pow(sqrt(n),2) == n|https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=java
 |[JAVA14.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA14.java)|정수 내림차순으로 배치하기|Arrays.sort()|https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=java
 |[JAVA15.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA15.java)|하샤드 수|Integer.parseInt() / Integer.toString()|https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java
+|[JAVA16.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA16.java)|두 정수 사이의 합|int = 10,000,000 long += 1~10,000,000|https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=java
