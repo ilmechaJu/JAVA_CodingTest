@@ -22,3 +22,4 @@
 |[JAVA18.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA18.java)|서울에서 김서방 찾기|seoul[i].equals("Kim")|https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java
 |[JAVA19.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA19.java)|나누어 떨어지는 숫자|ArrayList<Integer> list = new ArrayList<>()|https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java
 |[JAVA20.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA20.java)|음양 더하기|for 응용|https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java
+|[JAVA21.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA21.java)|핸드폰 번호 가리기|charAt()|https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java
