@@ -25,4 +25,4 @@
 |[JAVA21.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA21.java)|핸드폰 번호 가리기|charAt() or substring()|https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java
 |[JAVA22.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA22.java)|없는 숫자 더하기|응용문제|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
 |[JAVA23.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA23.java)|제일 작은 수 제거하기|int[] answer = {-1}; return answer; / 
- min =Math.min(min, arr[i])[|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
+ min =Math.min(min, arr[i])|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
