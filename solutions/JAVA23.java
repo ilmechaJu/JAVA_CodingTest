@@ -4,7 +4,7 @@ class Solution {
             int[] answer = {-1};
             return answer;
         }
-        int min = arr[0];
+        int min = 2147000000;
         
         for (int i=1; i<arr.length; i++){
             min = Math.min(min, arr[i]);
