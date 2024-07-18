@@ -24,6 +24,6 @@
 |[JAVA20.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA20.java)|음양 더하기|for 응용|https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java
 |[JAVA21.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA21.java)|핸드폰 번호 가리기|charAt() or substring()|https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java
 |[JAVA22.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA22.java)|없는 숫자 더하기|응용문제|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
-|[JAVA23.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA23.java)|제일 작은 수 제거하기|int[] answer = {-1}; return answer;|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
-|[JAVA24.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA24.java)|가운데 글자 가져오기|length와 length()는 다르다answer;|https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=java
+|[JAVA23.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA23.java)|제일 작은 수 제거하기|int[] answer = {-1}; return answer;|https://school.programmers.co.kr/learn/courses/30/lessons/12935
+|[JAVA24.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA24.java)|가운데 글자 가져오기|length와 length()는 다르다|https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=java
 
