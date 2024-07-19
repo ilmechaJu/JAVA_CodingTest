@@ -26,4 +26,5 @@
 |[JAVA22.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA22.java)|없는 숫자 더하기|응용문제|https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java
 |[JAVA23.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA23.java)|제일 작은 수 제거하기|int[] answer = {-1}; return answer;|https://school.programmers.co.kr/learn/courses/30/lessons/12935
 |[JAVA24.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA24.java)|가운데 글자 가져오기|length와 length()는 다르다|https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=java
-
+|[JAVA25.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA25.java)|수박수박수|for 횟수에 맞춰서 한 글자씩 더하기|https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=java
+|[JAVA26.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA26.java)|내적|for로 두 리스트 한개씩 꺼내기|https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=java
