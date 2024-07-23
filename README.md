@@ -33,3 +33,4 @@
 |[JAVA29.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA29.java)|부족한 금액 계산하기|int -> long 정수 오버플로우 해결|https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=java
 |[JAVA30.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA30.java)|문자열 다루기 기본|charAt()|https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=java
 |[JAVA31.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA31.java)|행렬의 덧셈|int[][] answer = new int[a1.length][a2.length]|https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=java
+|[JAVA32.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA32.java)|직사각형 별찍기|이중 for문 print('*') 다음줄 println()|https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=java
