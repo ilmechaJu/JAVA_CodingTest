@@ -31,3 +31,4 @@
 |[JAVA27.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA27.java)|약수의 개수와 덧셈|이중 for문|https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=java
 |[JAVA28.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA28.java)|문자열 내림차순으로 배치하기|StringBuffer sb = new StringBuffer(new String(arr));|https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=java
 |[JAVA29.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA29.java)|부족한 금액 계산하기|int -> long 정수 오버플로우 해결|https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=java
+|[JAVA30.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA30.java)|문자열 다루기 기본|charAt()|https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=java
