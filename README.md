@@ -35,3 +35,4 @@
 |[JAVA31.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA31.java)|행렬의 덧셈|int[][] answer = new int[a1.length][a2.length]|https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=java
 |[JAVA32.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA32.java)|직사각형 별찍기|이중 for문 print('*') 다음줄 println()|https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=java
 |[JAVA33.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA33.java)|최대공약수와 최소공배수|유클리드 호재법|https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=java
+|[JAVA34.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA34.java)|3진법 뒤집기|StringBuffer.reverse() 와 toString(n,3)|https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=java
