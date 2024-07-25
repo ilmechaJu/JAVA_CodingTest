@@ -38,3 +38,4 @@
 |[JAVA34.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA34.java)|3진법 뒤집기|StringBuffer.reverse() / toString(n,3)|https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=java
 |[JAVA35.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA35.java)|이상한 문자 만들기|split("") / contains(" ")/toLowerCase()|https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java
 |[JAVA36.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA36.java)|삼총사|삼중 for문|https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java
+|[JAVA37.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA37.java)|크기가 작은 부분문자열|Long.parseLong() / substring(s,e)|https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=java
