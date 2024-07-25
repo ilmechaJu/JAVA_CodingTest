@@ -39,3 +39,4 @@
 |[JAVA35.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA35.java)|이상한 문자 만들기|split("") / contains(" ")/toLowerCase()|https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java
 |[JAVA36.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA36.java)|삼총사|삼중 for문|https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java
 |[JAVA37.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA37.java)|크기가 작은 부분문자열|Long.parseLong() / substring(s,e)|https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=java
+|[JAVA38.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA38.java)|최소직사각형|Math.max() / Math.min()|https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=java
