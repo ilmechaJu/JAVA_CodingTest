@@ -42,3 +42,4 @@
 |[JAVA38.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA38.java)|최소직사각형|Math.max() / Math.min()|https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=java
 |[JAVA39.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA39.java)|시저 암호|ch >='a' && ch <= 'z' / (char)((ch-'a'+n)%26+'a');|https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=java
 |[JAVA40.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA40.java)|숫자 문자열과 영단어|Integer.parseInt()|https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java
+|[JAVA41.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA41.java)|문자열 내 마음대로 정렬하기|Arrays.sort(strings, Comparator.comparing((s)-> s.substring(n,n+1)));|https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java
