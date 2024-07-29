@@ -47,3 +47,4 @@
 |[JAVA43.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA43.java)|두 개 뽑아서 더하기|ArrayList != Array(배열)|https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java
 |[JAVA44.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA44.java)|가장 가까운 같은 글자|charAt() / map.put() / map.get()|https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=java
 |[JAVA45.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA45.java)|푸드 파이트 대회|StringBuilder left = new StringBuilder(); / .toString() / append() / reverse()|https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java
+|[JAVA46.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA46.java)|푸드 파이트 대회|ArrayList<Integer> rank = new ArrayList<>(); / rank.add(), rank.remove() / Collections.min()|https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java
