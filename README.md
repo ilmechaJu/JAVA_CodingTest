@@ -45,3 +45,4 @@
 |[JAVA41.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA41.java)|문자열 내 마음대로 정렬하기|Arrays.sort(strings, Comparator.comparing((s)-> s.substring(n,n+1)));|https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java
 |[JAVA42.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA42.java)|K번째 수|Arrays.copyOfRange();|https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java
 |[JAVA43.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA43.java)|두 개 뽑아서 더하기|ArrayList != Array(배열)|https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java
+|[JAVA44.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA44.java)|가장 가까운 같은 글자|charAt() / map.put() / map.get()|https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=java
