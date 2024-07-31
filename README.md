@@ -49,3 +49,4 @@
 |[JAVA45.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA45.java)|푸드 파이트 대회|StringBuilder left = new StringBuilder(); / .toString() / append() / reverse()|https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java
 |[JAVA46.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA46.java)|명예의 전당(1)|ArrayList<Integer> rank = new ArrayList<>(); / rank.add(), rank.remove() / Collections.min()|https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java
 |[JAVA47.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA47.java)|콜라 문제|계산 문제 / 나눗셈 응용|https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java
+|[JAVA48.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA48.java)|2016년|날짜 계산 문제 / 나눗셈 응용|https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=java
