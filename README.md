@@ -50,3 +50,4 @@
 |[JAVA46.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA46.java)|명예의 전당(1)|ArrayList<Integer> rank = new ArrayList<>(); / rank.add(), rank.remove() / Collections.min()|https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java
 |[JAVA47.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA47.java)|콜라 문제|계산 문제 / 나눗셈 응용|https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java
 |[JAVA48.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA48.java)|2016년|날짜 계산 문제 / 나눗셈 응용|https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=java
+|[JAVA49.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA49.java)|카드 뭉치|equals()와 idx++그리고 조건문에 따른, 순서있는, 정답비교|https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=java
