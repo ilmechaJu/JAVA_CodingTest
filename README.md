@@ -54,3 +54,4 @@
 |[JAVA50.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA50.java)|과일 장수|i--대신, m만큼씩 감소 연산자 i=-m|https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=java
 |[JAVA51.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA51.java)|모의고사-완전탐색|List<> = new ArrayList<>();|https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java
 |[JAVA52.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA52.java)|소수 만들기|private boolean isPrime(int num); / 1은 소수아니고, 2는 소수다.|https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java
+|[JAVA53.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA53.java)|덧칠하기|LastPoint개념이 핵심|https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=java
