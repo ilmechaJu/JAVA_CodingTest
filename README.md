@@ -55,4 +55,4 @@
 |[JAVA51.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA51.java)|모의고사-완전탐색|List<> = new ArrayList<>();|https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java
 |[JAVA52.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA52.java)|소수 만들기|private boolean isPrime(int num); / 1은 소수아니고, 2는 소수다.|https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java
 |[JAVA53.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA53.java)|덧칠하기|LastPoint개념이 핵심|https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=java
-|[JAVA54.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA54.java)|덧칠하기|ArrayList는 arr[i]x ->get(i)o, length()x ->size()o 사용|https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=java
+|[JAVA54.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA54.java)|덧칠하기|ArrayList는 arr[i]x ->get(i), length()x ->size() 사용|https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=java
