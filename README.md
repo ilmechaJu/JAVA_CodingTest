@@ -56,3 +56,4 @@
 |[JAVA52.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA52.java)|소수 만들기|private boolean isPrime(int num); / 1은 소수아니고, 2는 소수다.|https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java
 |[JAVA53.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA53.java)|덧칠하기|LastPoint개념이 핵심|https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=java
 |[JAVA54.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA54.java)|덧칠하기|ArrayList는 arr[i]x ->get(i), length()x ->size() 사용|https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=java
+|[JAVA55.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA55.java)|옹알이(2)|Startswith() : ()안에 글자로 시작하는지 True or False반환|https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=java
