@@ -59,3 +59,4 @@
 |[JAVA55.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA55.java)|로또의 최고순위 최저순위|int[] rank = {6,6,5,4,3,2,1};|https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=java
 |[JAVA56.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA56.java)|옹알이(2)|Startswith() : ()안에 글자로 시작하는지 True or False반환|https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=java
 |[JAVA57.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA57.java)|숫자 짝궁|countX[c - '0']++; [아스키코드]++ -> ++은 해당 인덱스 빈도 수 +1|https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java
+|[JAVA58.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA58.java)|체육복|Arrays.fill() - 배열 초기화|https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java
