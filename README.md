@@ -61,3 +61,4 @@
 |[JAVA57.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA57.java)|숫자 짝궁|countX[c - '0']++; [아스키코드]++ -> ++은 해당 인덱스 빈도 수 +1|https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java
 |[JAVA58.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA58.java)|체육복|Arrays.fill() - 배열 초기화|https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java
 |[JAVA59.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA59.java)|문자열 나누기|while (i<s.length())|https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=java
+|[JAVA60.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA60.java)|대충 만든 자판|Map<Character, Integer> minKeyPressMap = new HashMap<>();)|https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=java
