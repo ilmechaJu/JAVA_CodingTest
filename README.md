@@ -64,3 +64,4 @@
 |[JAVA60.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA60.java)|대충 만든 자판|Map<Character, Integer> minKeyPressMap = new HashMap<>();|https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=java
 |[JAVA61.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA61.java)|둘만의 암호|String Builder는 캐릭터형 배열로 쓸 수 있고, append()를 쓴다|https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=java
 |[JAVA62.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA62.java)|햄버거 만들기|ArrayList는 get(), remove()사용|https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=java
+|[JAVA63.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA63.java)|성격 유형검사|0~6단계 싫음~좋음 설문조샤|https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java
