@@ -66,5 +66,4 @@
 |[JAVA62.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA62.java)|햄버거 만들기|ArrayList는 get(), remove()사용|https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=java
 |[JAVA63.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA63.java)|성격 유형검사|6단계 싫음_좋음 설문조사|https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java
 |[JAVA64.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA64.java)|바탕화면 정리|lux, rdx, luy, rdy|https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=java
-|[JAVA65.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA65.java)|개인정보 수집 유효기간
-|Map<String, Integer> t = new HashMap<>()|https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=java
+|[JAVA65.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA65.java)|개인정보 수집 유효기간|Map<String, Integer> t = new HashMap<>()|https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=java
