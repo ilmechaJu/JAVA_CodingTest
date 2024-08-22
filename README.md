@@ -68,3 +68,4 @@
 |[JAVA64.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA64.java)|바탕화면 정리|lux, rdx, luy, rdy|https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=java
 |[JAVA65.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA65.java)|개인정보 수집 유효기간|Map<String, Integer> termMap = new HashMap<>();|https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=java
 |[JAVA66.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA66.java)|달리기 경주|map<> = Hashmap<>();|https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=java
+|[JAVA67.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA67.java)|공원 산책|char[][] arr = new char[park.length][park[0].length()]; / arr[i] = park[i].toCharArray();|https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=java
