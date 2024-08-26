@@ -72,3 +72,4 @@
 |[JAVA68.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA68.java)|신고 결과 받기|map<String, HashSet<Stering>> = new HashMap<>();|https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=java
 |[JAVA69.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA69.java)|최대값과 최솟값|String[] strArr = s.split(" "); / int[] intArr = new int[strArr.length];|https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=java
 |[JAVA70.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA70.java)|JadenCase 문자열 만들기|s.substring(s.length()-1,s.length()).equalse(" ");|https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=java
+|[JAVA71.java](https://github.com/ilmechaJu/JAVA_CodingTest/blob/main/solutions/JAVA71.java)|이진 변환 반복하기|Integer.toBinaryString()|https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java
